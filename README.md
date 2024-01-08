@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Movies app 
+<img width="895" alt="image" src="https://github.com/ChallaSumanth/movies-app/assets/62050083/0c833b35-2d5c-4998-88c3-ddec0537ae23">
+used React Hooks, functional components, omdbapi to build
+
+
 ## Available Scripts
 
 In the project directory, you can run:
